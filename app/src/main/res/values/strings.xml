@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bang &amp; Olufsen Sound Control</string>
+    <string name="sound_levels">Sound Levels</string>
+    <string name="sound_controls">Sound Controls</string>
+</resources>
